@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Suite]" duration-ms="32" started-at="2020-04-28T14:13:47Z" finished-at="2020-04-28T14:13:47Z">
+    <groups>
+    </groups>
+    <test name="Test(failed)" duration-ms="32" started-at="2020-04-28T14:13:47Z" finished-at="2020-04-28T14:13:47Z">
+      <class name="Package.TestNG_Failed_Test_cases">
+        <test-method status="PASS" signature="test5()[pri:0, instance:Package.TestNG_Failed_Test_cases@18be83e4]" name="test5" duration-ms="0" started-at="2020-04-28T19:43:47Z" finished-at="2020-04-28T19:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test4()[pri:0, instance:Package.TestNG_Failed_Test_cases@18be83e4]" name="test4" duration-ms="0" started-at="2020-04-28T19:43:47Z" finished-at="2020-04-28T19:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- Package.TestNG_Failed_Test_cases -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>
