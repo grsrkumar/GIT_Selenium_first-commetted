@@ -22,7 +22,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 			driver.findElement(By.id("email")).sendKeys("sree_6544@yahoo.co.in");
 			driver.findElement(By.id("pass")).sendKeys("9705223221@Kumar");
 			driver.findElement(By.id("u_0_b")).click();
-			
+			//--------------------------------------------------------------------------------------------------------------
 			
 			//driver.findElement(By.name("email")).sendKeys("sree_6544@yahoo.co.in");
 			//driver.findElement(By.name("pass")).sendKeys("9705223221@Kumar");
